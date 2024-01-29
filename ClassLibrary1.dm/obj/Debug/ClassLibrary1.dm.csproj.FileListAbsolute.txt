@@ -1,0 +1,6 @@
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\ClassLibrary1.dm\bin\Debug\ClassLibrary1.dm.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\ClassLibrary1.dm\bin\Debug\ClassLibrary1.dm.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\ClassLibrary1.dm\obj\Debug\ClassLibrary1.dm.csproj.AssemblyReference.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\ClassLibrary1.dm\obj\Debug\ClassLibrary1.dm.csproj.CoreCompileInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\ClassLibrary1.dm\obj\Debug\ClassLibrary1.dm.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\ClassLibrary1.dm\obj\Debug\ClassLibrary1.dm.pdb

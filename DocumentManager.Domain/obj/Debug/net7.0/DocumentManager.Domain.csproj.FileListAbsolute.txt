@@ -1,0 +1,11 @@
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.Domain\bin\Debug\net7.0\DocumentManager.Domain.deps.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.Domain\bin\Debug\net7.0\DocumentManager.Domain.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.Domain\bin\Debug\net7.0\DocumentManager.Domain.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.Domain\obj\Debug\net7.0\DocumentManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.Domain\obj\Debug\net7.0\DocumentManager.Domain.AssemblyInfoInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.Domain\obj\Debug\net7.0\DocumentManager.Domain.AssemblyInfo.cs
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.Domain\obj\Debug\net7.0\DocumentManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.Domain\obj\Debug\net7.0\DocumentManager.Domain.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.Domain\obj\Debug\net7.0\refint\DocumentManager.Domain.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.Domain\obj\Debug\net7.0\DocumentManager.Domain.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.Domain\obj\Debug\net7.0\ref\DocumentManager.Domain.dll

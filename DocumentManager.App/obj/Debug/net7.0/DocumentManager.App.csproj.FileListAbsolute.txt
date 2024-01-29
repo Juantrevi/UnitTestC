@@ -1,0 +1,14 @@
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\bin\Debug\net7.0\DocumentManager.App.exe
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\bin\Debug\net7.0\DocumentManager.App.deps.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\bin\Debug\net7.0\DocumentManager.App.runtimeconfig.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\bin\Debug\net7.0\DocumentManager.App.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\bin\Debug\net7.0\DocumentManager.App.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\obj\Debug\net7.0\DocumentManager.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\obj\Debug\net7.0\DocumentManager.App.AssemblyInfoInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\obj\Debug\net7.0\DocumentManager.App.AssemblyInfo.cs
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\obj\Debug\net7.0\DocumentManager.App.csproj.CoreCompileInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\obj\Debug\net7.0\DocumentManager.App.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\obj\Debug\net7.0\refint\DocumentManager.App.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\obj\Debug\net7.0\DocumentManager.App.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\obj\Debug\net7.0\DocumentManager.App.genruntimeconfig.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\DocumentManagerSolution\DocumentManager.App\obj\Debug\net7.0\ref\DocumentManager.App.dll
